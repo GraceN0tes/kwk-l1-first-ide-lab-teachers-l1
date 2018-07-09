@@ -3,7 +3,7 @@
   # Your First IDE Lab
 
   Now that you've learned about the Learn IDE, it's time to solve your first
-  lab. Watch the video below to see how to solve this lab.
+https://learn.co/tracks/kwk-student-lessons-l1/navigating-the-command-line/using-learn/kwk-l1-first-ide-lab#  lab. Watch the video below to see how to solve this lab.
 
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/T7PVTSkleAk" frameborder="0"
